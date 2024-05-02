@@ -11,7 +11,7 @@ With a better understanding of the factors that influence the success of Zomato 
 
 
 ## Data Understanding 😁
-This dataset is a collection of data about the restaurants listed on the Zomato platform. It includes information on various features of each restaurant, such as location, restaurant type, rating, number of votes, and more. This data can provide valuable insights into the characteristics of the restaurants and factors that might affect the success of the Zomato company.
+This dataset is a collection of data about the restaurants listed on the Zomato platform contains in sqlite format with size 500 mb +. It includes information on various features of each restaurant, such as location, restaurant type, rating, number of votes, and more. This data can provide valuable insights into the characteristics of the restaurants and factors that might affect the success of the Zomato company.
 
 List of features used: (Unsupervised)
 - URL: The unique URL of each restaurant on the Zomato platform.
